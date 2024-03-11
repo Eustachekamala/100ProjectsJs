@@ -1,0 +1,46 @@
+#container{
+    margin: 10% 0% 15% 20%;
+}
+.container-calculator{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    box-shadow: 0px 0px 5px rgba(128, 128, 128, 0.604);
+    width: 80%;
+    border-radius: 10px;
+}
+#title{
+    padding: 5px;
+    margin-bottom: 5px;
+}
+#date{
+    height: 20px;
+    padding: 5px;
+    border-radius: 10px;
+}
+label{
+    font-size: 20px;
+}
+.form-calculator{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 30%;
+    gap: 15px;
+    padding: 10px;
+    margin: 0% 0% 0% 20%;
+}
+#btn--calculator{
+    width: 100px;
+    height: 40px;
+    padding: 2px;
+    margin-top: 2px;
+    background-color: rgba(24, 95, 228, 0.944);
+    color: white;
+    outline: none;
+    border-radius: 10px;
+}
+#age--calculate{
+    padding-bottom: 10px;
+}
