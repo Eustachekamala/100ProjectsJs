@@ -40,3 +40,4 @@ function resetTimer() {
 start.addEventListener("click", startTimer);
 pause.addEventListener("click", stopTimer);
 reset.addEventListener("click", resetTimer);
+

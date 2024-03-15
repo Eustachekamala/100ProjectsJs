@@ -15,8 +15,10 @@
 }
 #date{
     height: 20px;
-    padding: 5px;
+    padding: 10px;
     border-radius: 10px;
+    border: none;
+    border: 1px solid rgba(128, 128, 128, 0.622);
 }
 label{
     font-size: 20px;
@@ -40,6 +42,7 @@ label{
     color: white;
     outline: none;
     border-radius: 10px;
+    border: none;
 }
 #age--calculate{
     padding-bottom: 10px;
