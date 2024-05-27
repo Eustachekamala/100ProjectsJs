@@ -1,7 +1,6 @@
 const celcius = document.getElementById("celcius");
 const fahrenheit = document.getElementById("fahrenheit");
 const kelvin = document.getElementById("kelvin");
-console.log("ok ok");
 
 function computeTemp(event) {
   const currentValue = +event.target.value;
